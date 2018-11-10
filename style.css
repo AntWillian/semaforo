@@ -1,0 +1,42 @@
+.container{
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+.semaforo{
+  width: 200px;
+  height: 90%;
+  background: #000;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15%;
+  padding-top:20px;
+}
+
+.bolinha{
+  width: 150px;
+  height: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  background-color: #fff;
+  border-radius: 100%;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.orange{
+  background-color: orange;
+}
+
+.white{
+  background-color: white;
+}
